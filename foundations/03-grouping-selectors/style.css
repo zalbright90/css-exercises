@@ -1,11 +1,14 @@
 .first {
-
+    background-color: hsl(0, 0%, 0%, 1);
+    color: hsl(0, 0%, 100%, 1);
+    font-weight: bold;
 }
 
 .second {
-
+    background-color: #FFFF00;
 }
 
 .button {
-    
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'san-serif';
 }
