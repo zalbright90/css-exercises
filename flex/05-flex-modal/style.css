@@ -21,7 +21,9 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   border: 1px solid red;
-  padding: 8px;
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .icon {
@@ -58,6 +60,7 @@ body {
   display: flex;
   border: 1px solid red;
 }
+
 
 button {
   cursor: pointer;
