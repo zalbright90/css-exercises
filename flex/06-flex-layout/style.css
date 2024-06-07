@@ -28,3 +28,10 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
+
+.header,
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+}
