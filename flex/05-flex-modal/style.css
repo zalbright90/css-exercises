@@ -38,6 +38,7 @@ body {
   align-items: center;
   justify-content: center;
   border: 1px solid red;
+  flex-shrink:0;
 }
 
 .close-button {
