@@ -39,7 +39,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 1px solid red;
   flex-shrink:0;
 }
 
@@ -56,18 +55,15 @@ body {
   justify-content: center;
   border: 1px solid #eee;
   padding: 0;
-  border: 1px solid red;
-}
-
-.container {
-  display: flex;
-  border: 1px solid red;
 }
 
 .header {
   display:flex;
   align-items: center;
   justify-content: space-between;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 8px;
 }
 
 button {
