@@ -24,8 +24,8 @@ body {
   display:flex;
   align-items: center;
   justify-content: space-between;
-  gap:9px;
-  padding:9px;
+  gap: 18px;
+  padding:18px;
 }
 
 .icon {
@@ -64,6 +64,11 @@ body {
   border: 1px solid red;
 }
 
+.header {
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+}
 
 button {
   cursor: pointer;
